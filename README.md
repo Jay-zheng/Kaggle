@@ -1,2 +1,2 @@
 # Kaggle
-Attempts on Kaggle projects
+Attempts on Kaggle housing price regression project
